@@ -7,8 +7,8 @@
   "devDependencies": {
     "react-scripts": "^5.0.1"
   },
-  "name": "vy6j3f",
-  "description": null,
+  "name": "tic_tac_toe",
+  "description": "Tic-Tac-Toe game to learn React",
   "version": "0.0.0",
   "scripts": {
     "start": "react-scripts start",
